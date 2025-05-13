@@ -8,7 +8,7 @@ plugins {
     // but i use ksp
     id 'com.google.devtools.ksp'
 }
-
+//
 android {
     namespace 'com.coding.meet.todo_app'
     compileSdk 33
